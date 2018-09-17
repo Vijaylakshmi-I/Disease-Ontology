@@ -1,1 +1,1 @@
-# Disease-Ontology
+# Disease-Ontology/Human Disease Ontology
